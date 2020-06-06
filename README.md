@@ -1,5 +1,7 @@
 <div align="center">
+
 <img src=".github/logo.svg">
+<br />
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a8ddc86c-21de-453d-b903-aeaa32d2185d/deploy-status)](https://app.netlify.com/sites/ecoleta-nlw/deploys) ![](https://img.shields.io/badge/nextlevelweek-1.0-blueviolet?style=flat-square) ![alt release](https://img.shields.io/github/v/release/jeferson-sb/ecoleta?style=flat-square)
 
@@ -70,7 +72,7 @@ $ yarn dev
 
 ## To-Do
 
-- [ ] Release apk 1.0.0
+- [x] Release apk 1.0.0
 - [ ] Implementar Yup
 - [ ] Implementar Styled Components
 - [ ] Criar testes
