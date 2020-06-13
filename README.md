@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src=".github/logo.svg">
+## <img src=".github/logo.svg">
+
 <br />
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a8ddc86c-21de-453d-b903-aeaa32d2185d/deploy-status)](https://app.netlify.com/sites/ecoleta-nlw/deploys) ![](https://img.shields.io/badge/nextlevelweek-1.0-blueviolet?style=flat-square) ![alt release](https://img.shields.io/github/v/release/jeferson-sb/ecoleta?style=flat-square)
@@ -77,6 +78,14 @@ $ yarn dev
 - [ ] Implementar Styled Components
 - [ ] Criar testes
 - [ ] Criar dashboard para visualizar, excluir e deletar pontos
+
+## 🤝 Como Contribuir
+
+1. Faça um Fork no repositório
+2. Crie sua branch: `git checkout -b featureXYZ`
+3. Faça commit das suas alterações desejadas: `git commit -m "feat: Feature Linda"`
+4. Faça o push: `git push origin featureXYZ`
+5. Aguarde o review do mantenedor
 
 ## 💅 Design
 
